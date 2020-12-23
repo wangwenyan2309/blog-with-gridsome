@@ -3,8 +3,8 @@
         <section class="page-header" style="linear-gradient(120deg, rgb(38, 144, 249), rgb(252, 45, 45));color: #fff">
             <h1 class="project-name">我的博客</h1>
             <h2 class="project-tagline">欢迎来到我的博客</h2>
-            <a href="javascript:;" class="btn" target="_blank">GitHub主页</a>
-            <a href="https://github.com/GitHub-Laziji/vblog" class="btn" target="_blank">博客源码</a>
+            <a href="https://github.com/wangwenyan2309" class="btn" target="_blank">GitHub主页</a>
+            <a href="https://github.com/wangwenyan2309/blog-with-gridsome" class="btn" target="_blank">博客源码</a>
         </section>
         <section class="main-content">
             <el-row>
